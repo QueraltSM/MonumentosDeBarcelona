@@ -1,0 +1,425 @@
+
+
+.Background {
+position: absolute; 
+top: 0px;
+left: 0px;
+width: 200px;
+height: 200px;
+z-index: -1;
+}
+
+
+
+.PalauDeLaMusicaPhoto {
+position: absolute; 
+top: 200px;
+left: 430px;
+}
+
+
+.InformationPalauDeLaMusica {
+font-family: "Times New Roman", Times, serif;
+font-size: 20px;
+position: absolute; 
+top: 300px;
+left: 120px;
+color: #000;
+text-align: center;
+}
+
+
+.TorreAgbarPhoto {
+position: absolute; 
+top: 120px;
+left: 230px;
+}
+
+
+.BackgroundTransparentSagrada{
+	z-index: -1;
+	opacity: 0.8;
+	filter: alpha(opacity=80);
+	position: absolute; 
+	top: 200px;
+	left: 0px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+	color: #fff;
+	text-align: center;
+}
+
+
+.BackgroundTransparentRamblas{
+	z-index: -1;
+	opacity: 0.6;
+	filter: alpha(opacity=60);
+	position: absolute; 
+	top: 200px;
+	left: 0px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+	color: #fff;
+	text-align: center;
+}
+
+
+.BackgroundTransparentTorreAgbar{
+	z-index: -1;
+	opacity: 0.6;
+	filter: alpha(opacity=60);
+	position: absolute; 
+	top: 200px;
+	left: 0px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+	color: #fff;
+	text-align: center;
+}
+
+
+
+.InformationTorreAgbar {
+font-family: "Times New Roman", Times, serif;
+font-size: 20px;
+position: absolute; 
+top: 300px;
+left: 160px;
+color: #fff;
+text-align: center;
+}
+
+
+.LiceoPhoto {
+position: absolute; 
+top: 260px;
+left: 570px;
+}
+
+
+.InformationLiceo {
+font-family: "Times New Roman", Times, serif;
+font-size: 20px;
+position: absolute; 
+top: 300px;
+left: 130px;
+color: #000;
+text-align: center;
+}
+
+
+.lasRamblasPhoto {
+position: absolute; 
+top: 500px;
+left: 50px;
+}
+
+
+.InformationLasRamblas {
+font-family: "Times New Roman", Times, serif;
+font-size: 20px;
+position: absolute; 
+top: 330px;
+left: 160px;
+color: #000;
+text-align: center;
+}
+
+
+.SagradaFamiliaPhoto {
+position: absolute; 
+top: 200px;
+left: 200px;
+}
+
+
+
+
+.InformationSagradaFamilia {
+font-family: "Times New Roman", Times, serif;
+font-size: 20px;
+position: absolute; 
+top: 350px;
+left: 270px;
+color: #fff;
+text-align: center;
+}
+
+
+.ColonPhoto {
+position: absolute; 
+top: 90px;
+left: 950px;
+}
+
+
+.InformationColon {
+font-family: "Times New Roman", Times, serif;
+font-size: 20px;
+position: absolute; 
+top: 300px;
+left: 220px;
+color: #000;
+text-align: center;
+}
+
+
+
+.PedreraPhoto {
+position: absolute; 
+top: 70px;
+left: 1020px;
+}
+
+
+.InformationPedrera {
+z-index: 0;
+font-family: "Times New Roman", Times, serif;
+font-size: 20px;
+position: absolute; 
+top: 340px;
+left: 100px;
+color: #000;
+text-align: center;
+}
+
+
+
+.CampNouPhoto {
+position: absolute; 
+top: 70px;
+left: 440px;
+}
+
+
+.InformationCampNou {
+z-index: 0;
+font-family: "Times New Roman", Times, serif;
+font-size: 20px;
+position: absolute; 
+top: 300px;
+left: 160px;
+color: #fff;
+text-align: center;
+}
+
+
+.ArcoPhoto {
+position: absolute; 
+top: 180px;
+left: 500px;
+}
+
+
+
+.BackgroundTransparentPedrera {
+z-index: -1;
+opacity: 0.7;
+filter: alpha(opacity=70);
+position: absolute; 
+top: 200px;
+left: 0px;
+font-family: "Times New Roman", Times, serif;
+font-size: 20px;
+color: #fff;
+text-align: center;
+
+}
+
+
+.BackgroundTransparentArco {
+z-index: -1;
+opacity: 0.4;
+filter: alpha(opacity=40);
+position: absolute; 
+top: 200px;
+left: 0px;
+font-family: "Times New Roman", Times, serif;
+font-size: 20px;
+color: #fff;
+text-align: center;
+
+}
+
+
+.BackgroundTransparent {
+z-index: -1;
+opacity: 0.7;
+filter: alpha(opacity=70);
+position: absolute; 
+top: 200px;
+left: 0px;
+font-family: "Times New Roman", Times, serif;
+font-size: 20px;
+color: #fff;
+text-align: center;
+}
+
+
+
+
+.BackgroundInformation {
+z-index: -2;
+position: absolute; 
+top: 200px;
+left: 0px;
+font-family: "Times New Roman", Times, serif;
+font-size: 20px;
+color: #fff;
+text-align: center;
+}
+
+.InformationArcoDelTriunfo {
+z-index: 0; 
+font-family: "Times New Roman", Times, serif;
+font-size: 20px;
+position: absolute; 
+top: 300px;
+left: 140px;
+color: #000;
+text-align: center;
+}
+
+.photoTitle {
+z-index: -1;
+position: absolute; 
+top: 0px;
+left: 0px;
+
+}
+
+
+
+.titleColon {
+font-family: "Times New Roman", Times, serif;
+font-size: 30px;
+color: #fff;
+position: absolute; 
+top: 40px;
+left: 580px;
+}
+
+.titleTorreAgbar {
+font-family: "Times New Roman", Times, serif;
+font-size: 30px;
+color: #fff;
+position: absolute; 
+top: 40px;
+left: 420px;
+}
+
+.titleLiceo{
+font-family: "Times New Roman", Times, serif;
+font-size: 30px;
+color: #fff;
+position: absolute; 
+top: 40px;
+left: 570px;
+}
+
+.titlePalau {
+font-family: "Times New Roman", Times, serif;
+font-size: 30px;
+color: #fff;
+position: absolute; 
+top: 40px;
+left: 430px;
+}
+
+.titleArco {
+font-family: "Times New Roman", Times, serif;
+font-size: 30px;
+color: #fff;
+position: absolute; 
+top: 40px;
+left: 420px;
+}
+
+.titleSagradaFamilia {
+font-family: "Times New Roman", Times, serif;
+font-size: 30px;
+color: #fff;
+position: absolute; 
+top: 40px;
+left: 380px;
+}
+
+.title {
+font-family: "Times New Roman", Times, serif;
+font-size: 30px;
+color: #fff;
+position: absolute; 
+top: 40px;
+left: 525px;
+}
+
+
+.BarcelonaHistory{
+z-index: 0;
+position: absolute; 
+color: #fff;
+-webkit-text-fill-color: #fff;
+-webkit-text-stroke: 1px white;
+font-family: "Times New Roman", Times, serif;
+top: 290px;
+left: 300px;
+font-size: 20px;
+}
+
+.History {
+z-index: -1;
+opacity: 0.4;
+filter: alpha(opacity=40);
+position: absolute;
+top: 170px;
+left: 0;
+color: #000;
+font-family: "Times New Roman", Times, serif;
+}
+
+.sidenav {
+    z-index:1;
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.sidenav a {
+    z-index: 1;
+    padding: 8px 8px 50px 80px;
+    text-decoration: none;
+    font-size: 24px;
+    color: #57ACD9;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover {
+    color: #fff;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 35px;
+    margin-left: 50px;
+}
+
+#main {
+    transition: margin-left .5s;
+    padding: 16px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
